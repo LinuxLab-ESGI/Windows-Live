@@ -2,10 +2,11 @@
 <i> A debian persistent live to use Windows 10 in RAM memory</i>
 __________
 
-Login : <b>user</b>
+
+User login : <b>user</b><br>
 Password : <b>live</b>
 
-Login : <b>root</b>
+Root login : <b>root</b><br>
 Password : <b>root</b>
 
 ## Requirements
@@ -16,7 +17,7 @@ Password : <b>root</b>
 
 ## Download
 
-You can download the disk image right here : 
+You can download the raw disk image right here : 
 `WIP...`
 
 ## Installation
@@ -31,10 +32,10 @@ You can now access to all the scripts I have added in the persistent debian.
 
 ### For Linux
 ###
-\$R1 = repository of the raw disk image (<i>example : /home/user/disk.img</i>)
+\$R1 = repository of the raw disk image (<i>example : /home/user/disk.img</i>)<br>
 $R2 = the partition wich you want to install it (<i>example : /dev/sda2</i>)
 
-In root do :
+In root do : <br>
 `dd if="$R1.img" of="$R2"`
 
 ### For Windows
