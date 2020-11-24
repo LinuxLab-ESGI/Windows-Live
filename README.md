@@ -2,8 +2,6 @@
 <i> A debian persistent live to use Windows 10 in RAM memory</i>
 __________
 
-#### Logins :
-
 Login : <b>user</b>
 Password : <b>live</b>
 
