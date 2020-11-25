@@ -39,4 +39,7 @@ In root do : <br>
 `dd if="$R1.img" of="$R2"`
 
 ### For Windows
-WIP
+
+Use the software AOMEI Backupper, select the raw disk image and deploy it on the hard drive.
+
+![AOMEI Backupper](/img/restore_aomei.jpg "Screenshot AOMEI")
