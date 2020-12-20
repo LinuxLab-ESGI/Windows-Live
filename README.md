@@ -11,7 +11,7 @@ Password : <b>root</b>
 
 ## Requirements
 
-- Make sure you have enabled virtualization in your BIOS/UEFI <br><i>(more performance)</i>
+- Make sure you have enabled virtualization in your BIOS/UEFI <br>
 ###
 - USB Key/Hard disk minimum 64Go to install the persistent debian live with Windows 10
 
