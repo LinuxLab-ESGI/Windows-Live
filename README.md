@@ -17,8 +17,7 @@ Password : <b>root</b>
 
 ## Download
 
-You can download the raw disk image right here : 
-`WIP...`
+You can download the raw disk image right <a href="http://gofile.me/4HEFI/AEFGRd5FW">here</a>.
 
 ## Installation
 
